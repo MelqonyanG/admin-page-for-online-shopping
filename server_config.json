@@ -1,0 +1,10 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": 5000
+  },
+  "admin":{
+    "login": "admin@gmail.com",
+    "password": "y"
+  }
+}
